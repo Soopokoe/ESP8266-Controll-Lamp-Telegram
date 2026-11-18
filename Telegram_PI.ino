@@ -4,8 +4,8 @@
 
 #define WIFI_SSID     "Junan"
 #define WIFI_PASSWORD "123456789"
-#define BOT_TOKEN     "8012391414:AAHjIZHJsOvGZz9GbYjQYrpxq-RWSiMh-yI"
-#define CHAT_ID       "8100986676" 
+#define BOT_TOKEN     "--"
+#define CHAT_ID       "--" 
 
 // Pin lampu
 #define LAMPU1_PIN 5  // D1
